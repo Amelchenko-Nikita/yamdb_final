@@ -54,4 +54,4 @@ jobs:
         uses: docker/build-push-action@v2 
         with:
           push: true
-          tags: amelchenkono/yamdb_final:latest
+          tags: amelchenkono/api_yamdb:v2.11.1989
