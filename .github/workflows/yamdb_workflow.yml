@@ -11,7 +11,6 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
-        # Выбор версии Python
         python-version: 3.7
 
     - name: Install dependencies
