@@ -1,6 +1,9 @@
 # yamdb_final
 ![workflow](https://github.com/Amelchenko-Nikita/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg?branch=master&event=push)
 
+# ip server
+158.160.43.80
+
 # API Yatube
 
 Проект YaMDb собирает отзывы пользователей на произведения. Сами произведения в YaMDb не хранятся, здесь нельзя посмотреть фильм или послушать музыку.
