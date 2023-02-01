@@ -2,7 +2,7 @@
 ![workflow](https://github.com/Amelchenko-Nikita/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg?branch=master&event=push)
 
 # ip server
-158.160.43.80
+51.250.80.40
 
 # API Yatube
 
